@@ -22,8 +22,8 @@ A = 22
 b = 13
 c = a+b
 
-This sets the variable a to equal 22 and b = to 13 when you do the equation c = a+b it really is c = 22 + 13 or 35 = 35
-
+This sets the variable A = 22 and b = 13 and inputs those into the equation c=a+b but the a is a capital so really it looks like c = a+13 not c = 22+13
+so this equation would not work
 
 
 
@@ -113,8 +113,8 @@ type(True)      == <class 'bool'>
 9.) Fix the mistake in the following code:
 x = 4
 y = 5       the y was a capital
-a = 3(x + y)
-a
+a = 3*(x + y) you can't multiply with just () you need a *
+
 
 
 
