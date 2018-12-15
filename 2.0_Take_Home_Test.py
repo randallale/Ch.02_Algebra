@@ -16,7 +16,7 @@ but I will definitely not ask another person except the instructor. Typed: Alexa
 
 
 
-
+INCORRECT!
 3.) What happens when you try this and why?
 A = 22
 b = 13
@@ -109,7 +109,7 @@ type(True)      == <class 'bool'>
 
 
 
-
+INCORRECT!
 9.) Fix the mistake in the following code:
 x = 4
 y = 5       the y was a capital
